@@ -8,6 +8,5 @@
     "version_code": 11,
     "min_sdk": 21
   },
-  "release_notes": "Bug fixes and performance improvements",
   "force_update": false
 }
