@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "windows": {
     "download_url": "https://github.com/Ranojitdas/EduNest-desktop/releases/download/v1.1.0/EduNestUpdate.exe"
   },
   "android": {
     "download_url": "https://drive.google.com/file/d/1523J6kAaKNVcBTr3jguBsCbPJ_xEZ7I8/view?usp=sharing",
-    "version_code": 2,
+    "version_code": 1,
     "min_sdk": 21
   },
   "force_update": false
