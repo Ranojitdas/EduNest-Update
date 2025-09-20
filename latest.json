@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "windows": {
-    "download_url": "https://github.com/Ranojitdas/EduNest-desktop/releases/download/v1.1.0/EduNestUpdate.exe"
+    "download_url": "https://github.com/Ranojitdas/EduNest-Update/releases/download/v1.1.0/EduNestUpdate.exe"
   },
   "android": {
     "download_url": "https://drive.google.com/file/d/1E2lugQDPYE1vA-NHCmT6kusmothjoLZq/view?usp=sharing",
